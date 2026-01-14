@@ -25,5 +25,14 @@ At each Monte Carlo step:
 4. The move is accepted using the Metropolis criterion
 
 ## Results
-The simulation demonstrates grain coarsening and reduction in grain boundary
-area with increasing Monte Carlo steps.
+## Microstructure Evolution
+Example grain structure obtained during Monte Carlo simulation.
+
+![Grain Microstructure](figures/microstructure.png)
+
+## Grain Size Evolution
+Mean grain area as a function of Monte Carlo steps.
+
+![Mean Grain Area vs MCS](results/mean_grain_area_vs_MCS.png)
+
+
